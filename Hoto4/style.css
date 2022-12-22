@@ -1,0 +1,248 @@
+body{
+	background-color: #212226;
+}
+.header{
+	width: 1350px;
+	height: 80px;
+	background-color: #303136;
+	display: flex;
+	position: fixed;
+	top: -20px;
+}
+.text{
+	display: flex;
+	color: white;
+	margin-left: 340px;
+}
+h1{
+	margin-inline: 20px;
+	font-size: 30px;
+}
+
+h2{
+	margin-inline: 20px;
+	font-size: 30px;
+	color: blue;
+}
+.section{
+	background-color:  #303136;
+	width: 1311px;
+	height: 280px;
+	margin: 15px;
+	margin-top: 15px;
+	margin-left: 3px;
+	padding-left: 35px;
+	padding-top: 32px;
+	margin-top: 50px;
+}
+.sqer{
+	background-color: rgb(188, 190, 192);
+	width: 280px;
+	height: 250px;
+	border-radius: 19px;
+
+
+}
+.text1{
+	width: 700px;
+	display: flex;
+	color: white;
+	float: right;
+	padding-right: 270px;
+	font-size: 18px;
+}
+.section1{
+	background-color:  #303136;
+	width: 341px;
+	height: 280px;
+	margin: 15px;
+	margin-top: 15px;
+	margin-left: 3px;
+	padding-left: 1005px;
+	padding-top: 32px;
+}
+.sqer1{
+	background-image: url("https://www.topgear.com/sites/default/files/2022/05/EverratiPagoda1.jpg");
+	width: 280px;
+	height: 250px;
+	border-radius: 10px;
+
+}
+.text2{
+	width: 700px;
+	display: flex;
+	color: white;
+	float: right;
+	padding-right: 430px;
+	font-size: 18px
+}
+.section2{
+	background-color:  #303136;
+	width: 1068px;
+	height: 450px;
+	margin: 20px;
+	margin-left: 3px;
+	padding-left: 280px;
+	padding-top: 75px;
+	display: flex;
+
+}
+.box{
+	background-color: rgb(188, 190, 192);
+	width: 220px;
+	height: 340px;
+	border-radius: 10px;
+	padding-top: 8px;
+	padding-left: 10px;
+}
+.box3{
+	background-color: #F0F0F0;
+	width: 210px;
+	height: 125px;
+	border-radius: 10px;
+
+}
+
+.box1{
+	background-color: rgb(188, 190, 192);
+	width: 220px;
+	height: 340px;
+	border-radius: 10px;
+	padding-top: 8px;
+	padding-left: 10px;
+	margin-left: 15px;
+}
+.box4{
+	background-color: #F0F0F0;
+	width: 210px;
+	height: 125px;
+	border-radius: 10px;
+}
+
+.box2{
+	background-color: rgb(188, 190, 192);
+	width: 220px;
+	height: 340px;
+	border-radius: 10px;
+	padding-top: 8px;
+	padding-left: 10px;
+	margin-left: 15px;
+}
+.box5{
+	background-color: #F0F0F0;
+	width: 210px;
+	height: 125px;
+	border-radius: 10px;
+}
+.h3{
+	color: black;
+	font-size: 10px;
+}
+.text3{
+	text-align: center;
+	width: 190px;
+	padding-top: 20px;
+	padding-left: 15px;
+}
+.b1{
+	background-color: rgb(51, 51, 255);
+	width: 180px;
+	height: 38px;
+	font-size: 20px;
+}
+.section3{
+	background-color:  #303136;
+	width: 1068px;
+	height: 450px;
+	margin: 20px;
+	margin-left: 3px;
+	padding-left: 280px;
+	padding-top: 75px;
+	justify-content: space-between;
+}
+.section4{
+	width: 1350px;
+	height: 80px;
+	background-color: #303136;
+	display: flex;
+	position: absolute;
+	margin-top: 5px;
+}
+.text4{
+	display: flex;
+	color: white;
+	margin-left: 340px;
+}
+.onsection{
+	width: 1000px;
+	height: 150px;
+	background-color: #303136;
+	display: flex;
+}
+.boxes{
+	background-color: #F0F0F0;
+	width: 150px;
+	height: 125px;
+	border-radius: 10px;
+	margin: 10px;
+}
+.boxes1{
+	background-color: #F0F0F0;
+	width: 150px;
+	height: 125px;
+	border-radius: 10px;
+	margin: 10px;
+}
+.boxes2{
+	background-color: #F0F0F0;
+	width: 150px;
+	height: 125px;
+	border-radius: 10px;
+	margin: 10px;
+}
+.boxes3{
+	background-color: #F0F0F0;
+	width: 150px;
+	height: 125px;
+	border-radius: 10px;
+	margin: 10px;
+}
+.onsection1{
+	width: 1000px;
+	height: 150px;
+	background-color: #303136;
+	margin-right: 300px;
+	display: flex;
+
+}
+.boxes4{
+	background-color: #F0F0F0;
+	width: 150px;
+	height: 125px;
+	border-radius: 10px;
+	margin: 10px;
+}
+.boxes5{
+	background-color: #F0F0F0;
+	width: 150px;
+	height: 125px;
+	border-radius: 10px;
+	margin: 10px;
+}
+.boxes6{
+	background-color: #F0F0F0;
+	width: 150px;
+	height: 125px;
+	border-radius: 10px;
+	margin: 10px;
+}
+.boxes7{
+	background-color: #F0F0F0;
+	width: 150px;
+	height: 125px;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+
+
